@@ -1,0 +1,3 @@
+## Acknowledgements
+We thank these great works and open-source repositories:
+[OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [DSVT](https://github.com/Haiyang-W/DSVT), [FlatFormer](https://github.com/mit-han-lab/flatformer), [HEDNet](https://github.com/zhanggang001/HEDNet), [Mamba](https://github.com/state-spaces/mamba), [RWKV](https://github.com/BlinkDL/RWKV-LM), [Vision-RWKV](https://github.com/OpenGVLab/Vision-RWKV), [RMT](https://github.com/qhfan/RMT), [xLSTM](https://github.com/NX-AI/xlstm),  [TTT](https://github.com/test-time-training/ttt-lm-pytorch), and [flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention).
